@@ -1,0 +1,3 @@
+displayName = League Of Terraria
+author = Dryboi and STARPERSON
+version = 0.1
